@@ -5,9 +5,9 @@ de:
     shared:
       no_entries_found: "No entries found."
       help: "Ayuda"
-      settings: "Settings"
-      confirm_question: "Are you sure?"
-      restore_question: 'Restore?'
+      settings: "Ajustes"
+      confirm_question: "Estas seguro?"
+      restore_question: 'restaurar?'
 
     buttons:
       add: "Agregar"
@@ -16,8 +16,8 @@ de:
       save_continue: 'Guardar y continuar editando'
       filter: "Filtro"
       list: "Lista"
-      sign_in: "Registrar"
-      sign_up: "Sign up"
+      sign_in: "Acceder"
+      sign_up: "Registrar"
       sign_out: "Finalizar la sesión"
       show: "Mirar"
       edit: "Editar"
@@ -82,7 +82,7 @@ de:
 
     accounts:
       new:
-        title: "Sign up"
+        title: "Registrar"
       forgot_password:
         title: "Contraseña olvidado"
       remember_password: "Recuerdo mi contraseña"
